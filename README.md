@@ -11,7 +11,7 @@ Codeshare logo
 4
 ​
 5
-<h1 align="center">Hi <img width="45" src="waving_hand.gif">, I'm Diksha Yadav </h1>
+<h1 align="center">Hi <img width="45" src="waving_hand.gif">,I'm Neha Dixit </h1>
 6
 <p align="center">
 7
