@@ -1,11 +1,11 @@
-# Hey! Nice to see you ✨✨<p align="left"> <img src="https://komarev.com/ghpvc/?username=sapna271708&label=Profile%20views&color=0e75b6&style=flat" alt="sapna271708" /> </p>
+# Hey! Nice to see you ✨✨<p align="left"> <img src="https://komarev.com/ghpvc/?username=NehaDixit2004&label=Profile%20views&color=0e75b6&style=flat" alt="NehaDixit2004" /> </p>
 
 
 
-<h1 align="center">Hi <img width="45" src="waving_hand.gif">, I'm Sapna Prajapat </h1>
+<h1 align="center">Hi<img width="45" src="waving_hand.gif">,I'm NEHA DIXIT </h1>
 <p align="center">
 </p>
-<h3 align="center">🚩 A Data Analyst Intern From India. 🚩
+<h3 align="center">🚩 A DevOps intern From India. 🚩
 
 
 
@@ -43,7 +43,7 @@
     
 - ✨ Worked AWS cloud and utilizes AWS services  **EC2 , ECR , RDS ,EBS , IAM , CodePipeline , S3 Bucket , sagemaker**
 
-- 💻 Check my Projects and other Repos [HERE.]([https://github.com/sapna271708?tab=repositories])
+- 💻 Check my Projects and other Repos [HERE.]([https://github.com/NehaDixit2004?tab=repositories])
 
 
 
@@ -86,10 +86,10 @@
 
 [![Bluesky](https://img.shields.io/badge/Bluesky-Follow-blue?style=for-the-badge&logo=bluesky)](https://bsky.app/profile/sapna06.bsky.social)
 <a href="https://bsky.app/profile/sapna06.bsky.social" target="_blank"> 
-<a href="https://www.linkedin.com/in/sapna-prajapat-58bb07383/" target="_blank">
+<a href="https://www.linkedin.com/in/neha-dixit-9a6743316/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Connect">
 </a>
-<a href="mailto:sapnaprajapat2707@gmail.com" target="_blank">
+<a href="mailto:nd2991939@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Connect me-blue?style=for-the-badge&logo=gmail" alt="Gmail Email">
 </a>
 
